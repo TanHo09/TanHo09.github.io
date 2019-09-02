@@ -1,0 +1,39 @@
+.Account{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.Account h1{
+    text-align: center;
+    font-size: 36px;
+}
+.Account form input{
+    width: 30%;
+    height: 45px;
+    margin-top: 10px;
+    box-shadow: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.Account form i{
+    font-size: 180%;
+}
+.Account form i{
+    font-size: 180%;
+}
+.Account form .Submit{
+    background-color: #F7010A;
+    box-shadow: none;
+    height: 40px;
+    width: 35%;
+    font-size: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #F7010A;
+    margin-top: 46px;
+    color: #fff;
+}
